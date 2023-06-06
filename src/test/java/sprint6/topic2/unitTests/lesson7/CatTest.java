@@ -4,8 +4,8 @@ import org.junit.runner.RunWith;
 import org.mockito.Spy;
 import org.mockito.junit.MockitoJUnitRunner;
 
-@RunWith(MockitoJUnitRunner.class)
+//@RunWith(MockitoJUnitRunner.class)
 public class CatTest {
-    @Spy
+//    @Spy
     Cat cat = new Cat("Alice");
 }
