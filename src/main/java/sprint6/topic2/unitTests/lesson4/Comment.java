@@ -1,4 +1,4 @@
-package sprint6.topic2.unitTests.lesson4.task3;
+package sprint6.topic2.unitTests.lesson4;
 
 public class Comment {
 
